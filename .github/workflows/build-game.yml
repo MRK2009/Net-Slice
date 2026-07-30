@@ -10,7 +10,7 @@ on:
 
 env:
   HAXE_VER: 4.3.7
-  LIME_HASH: 826d25199c17329b730ae09838f3df7a2903c471
+  LIME_HASH: 11f7f05d30895846e12ccb31c54e08ebd1c4dcb0
 
 jobs:
   Android:
